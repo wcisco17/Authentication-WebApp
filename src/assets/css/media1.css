@@ -1,0 +1,31 @@
+/* MEDIA SCREEN 0NLY 800 - 600  */
+@media (max-width: 1290px) {
+    .content__login { 
+        display: flex;
+        align-items: center;
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width: 900px) {
+    .login_section {
+        background-image: url('../images/laptop-3190194_1920.jpg');
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+    }
+    .signup_section {
+        background-image: url('../images/earth-1149733_1280.jpg');
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+    }
+    .login_section_img {
+        display: none;
+    }
+    .signup_section_img {
+        display: none;
+    }
+
+}
+
