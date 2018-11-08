@@ -1,4 +1,5 @@
-![Uploading intercoin_image1.png…]()
+<img width="1275" alt="intercoin_image1" src="https://user-images.githubusercontent.com/35783824/48187803-c40e9d80-e36e-11e8-9652-cc55b12f2b41.png">
+
 
 
 (STILL IN PROGESS)
