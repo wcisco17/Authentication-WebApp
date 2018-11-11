@@ -19,7 +19,7 @@ const sendConfirmationEmail = async(user: any, req: any) => {
 
     const mailOptions = {
         to: user.email,
-        from: 'wsissoko65.gmail.com',
+        from: 'your@email.com',
         subject: 'Welcome to InterCoin',
         html:`
         <div style="text-align: center; font-size: 1.3rem;">
