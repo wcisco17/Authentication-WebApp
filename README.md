@@ -11,9 +11,6 @@ Sign Up Page
 
 
 
-(STILL IN PROGESS)
-
-
 Autentication Web Application 
 
 # Feel free to Clone or Download 
@@ -26,7 +23,7 @@ yarn
 
 
 The Front-End was build in ReactJS 
-  The Folder Architecture is done with the Atomic design Pattern
+The Folder Architecture is done with the Atomic design Pattern. Once user signs up they are prompted to a user page where data can be fetched using an News API.
 
 # Run FrontEnd
 cd src
